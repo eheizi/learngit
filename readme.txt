@@ -11,3 +11,4 @@ Creating a new branch is quick AND simple.
 Creating a new branch is quick and simple.
 gaigaigai
 xianzai zhengzai gongzuo  danshi haiyou liange xiaoshi caineng wancheng 
+今天Git 基础学习完毕啦
